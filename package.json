@@ -1,6 +1,6 @@
 {
   "name": "expo-sanctum-auth",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Authentication library for Expo apps using Laravel Sanctum",
   "main": "index.js",
   "scripts": {
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/expo-sanctum-auth.git"
+    "url": "git+https://github.com/ismadevjs/expo-sanctum-auth.git"
   },
   "bugs": {
     "url": "https://github.com/ismadevjs/expo-sanctum-auth/issues"
